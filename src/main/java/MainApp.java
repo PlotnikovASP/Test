@@ -1,7 +1,7 @@
 public class MainApp {
     public static void main(String[] args) {
         printColor();
-        System.out.println("Спасибо Друг=)");
+
     }
 
     public static void printColor() {
